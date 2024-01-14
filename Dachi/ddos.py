@@ -7,7 +7,7 @@ def clear():
 clear()
 
 print(f"{Fore.RED}Made By neo1sback")
-print(f"Discord Server: https://discord.gg/dA5JCz7A{Fore.RESET}")
+print(f"Discord Server: https://discord.gg/ZnUE8rTVMY{Fore.RESET}")
 key = input("🔑 Key: ")
 
 
@@ -46,7 +46,7 @@ welcome = f"""{Fore.LIGHTRED_EX}
 print(welcome)
 
 while True:
-    rt = input("Neo > ")
+    rt = input("Dachi > ")
 
     if rt == "daxmareba" or rt == "daxmareba" or rt == "daxmareba":
         print("""
